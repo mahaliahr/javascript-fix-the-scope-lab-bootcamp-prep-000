@@ -30,4 +30,4 @@ var funkyFunction = function() {
 
 var theFunk = funkyFunction()
 var theFunk = theFunk.function()
-theFunk.function()
+return theFunk.function()
